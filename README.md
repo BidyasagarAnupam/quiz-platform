@@ -36,7 +36,7 @@ This is an interactive quiz platform built with React and Vite. The platform all
 
 ## 🌐 Link to Deployed App
 
-You can access the deployed app [here](https://link.com).
+You can access the deployed app [here](https://quiz-platform-omega.vercel.app/).
 
 ## 🛠️ Built With
 
